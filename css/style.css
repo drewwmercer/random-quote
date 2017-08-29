@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+h1,
+p {
+  color: white;
+  font-family: "Arial";
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.randomQuote {
+  color: white;
+  font-size: 30px;
+}
+
+.quoteAuthor {
+  font-style: italic;
+  font-size: 24px;
+}
+
+#twitter {
+}
+
+#newQuote {
+}
+
+.quoteHolder {
+  background-color: grey;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height: auto;
+}
