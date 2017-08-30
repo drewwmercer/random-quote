@@ -17,7 +17,7 @@ $(document).ready(function() {
       "“Travel…the best way to be lost and found at the same time.”",
       "“This heart of mine was made to travel this world”",
       "“I travel not to go anywhere, but to go. I travel for travel's sake.”",
-      "“I don\'t know where I\'m going, but I\'m on my way."',
+      "“I don\'t know where I\'m going, but I\'m on my way.",
       '“Let\'s find some beautiful place to get lost.”',
       "“The journey is my home.”"
     ];
