@@ -13,7 +13,7 @@ $(document).ready(function() {
       "“If you think adventure is dangerous, try routine, it is lethal.”",
       "“Great things never came from comfort zones.”",
       "“Don't listen to what they say, go see.”",
-      "“Oh, the places you'll go!"",
+      "“Oh, the places you'll go!",
       "“Travel…the best way to be lost and found at the same time.”",
       '“This heart of mine was made to travel this world”',
       '“I travel not to go anywhere, but to go. I travel for travel\'s sake.”'
